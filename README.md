@@ -1,6 +1,6 @@
 ### Zeromq Scala Example
 
-Sample fanout based example.
+Sample fanout based example. It uses java-based implementation of Zeromq called <a href="https://github.com/zeromq/jeromq">Jeromq</a>
 
 
 ##### Simple consumer/producer examples
